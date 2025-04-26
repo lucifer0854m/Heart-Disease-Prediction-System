@@ -152,30 +152,6 @@ def prdict_heart_disease(list_data):
 ### For a detailed Report <a href="">Click Here</a>
 
 
-## Demo Video
-For demo video 
-<a href="https://amritacampuschennai-my.sharepoint.com/:v:/g/personal/ch_en_u4cse20005_ch_students_amrita_edu/ESuaLdQqmNdFjzSBcMiTpaABWPQ2kZWEwCJ53HsY3UdHHg">Click Here</a>
 
-## Output Screen-shots
-When the application is runned then, a Welcome Page pops-up
-<img src="https://github.com/lucifer0854m/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/WelcomePage.png" />
-
-Admin Dash-board:
-<img src="https://github.com/lucifer0854m/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/AdminDashboard.png" />
-
-Entering Heart Details to check our Health:
-<img src="https://github.com/lucifer0854m/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/AddHeartDetail.png" />
-
-Since these details are stored in the Data-base, so we can also retrieve past results:
-<img src="https://github.com/lucifer0854m/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/SearchLogs1.png" />
-
-To view our own details:
-<img src="https://github.com/lucifer0854m/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/ViewMyDetaile.png" />
-
-If a user doesn't understand how to use the application then he can:
-<img src="https://github.com/lucifer0854m/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/IntroductionViewVideo.png" />
-
-To view registered Doctor information:
-<img src="https://github.com/lucifer0854m/Heart-Disease-Prediction-System/blob/main/SCREEN-SHOTS/DoctorRecords.png" />
 
 ## NOTE: GitHub Pages is not working
